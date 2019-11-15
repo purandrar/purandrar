@@ -1,0 +1,107 @@
+body{
+    background-color: white;
+}
+header{
+    height: 100px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+header h1{
+    text-align: center;
+    font-family: karla , sans-serif;
+}
+section{
+    font-family: 'Abel', sans-serif;;
+}
+.wrapper{
+    width: 1200px;
+    height: 700px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.foto img{
+    height: 600px;
+    width: 450px;
+    padding: 50px 25px;
+}
+.foto{
+    height: 700px;
+    width: 500px;
+    float: left;
+}
+.artikel{
+    height:600px;
+    width: 630px;
+    float: left;
+    padding: 50px 25px;
+}
+.artikel article{
+    font-size: 30px;
+    text-align: justify;
+}
+.skill{
+    text-align: center;
+}
+.skill h2{
+    font-size: 20px;
+}
+.skill p{
+    font-size:25px;
+}
+.hacktiv{
+    width:  1200px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.artikelH8{
+    width:700px;
+    height: 300px;
+    float: left;
+    text-align: justify;
+}
+.artikelH8  h2{
+   font-size: 30px;
+}
+.artikelH8 p{
+    font-size: 23px;
+}
+.logo{
+    width: 480px;
+    height: 300px;
+    float: left;
+}
+.logo img{
+    height:250px;
+    width: 250px;
+    float: left;
+    margin: 25px 115px;
+}
+.socialMedia{
+    text-align: center;
+}
+.socialMedia p{
+    font-size: 15px;background-color: white;
+
+}
+.socialMedia img{
+    width: 30px;
+    height: 30px;
+}
+#twitter{
+    width: 35px;
+    height: 30px;
+}
+a{
+    color: black;
+}
+/* }
+.skill{
+    height: 100px;
+    width:290px;
+    margin:auto;
+    float: left;
+    text-align: center;
+} */
